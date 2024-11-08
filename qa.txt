@@ -1,0 +1,45 @@
+bcsmcds : Validation Results
+=========================================
+
+err = 0, warn = 5, info = 0
+IG Publisher Version: 1.7.1
+Generated Fri Nov 08 21:47:06 UTC 2024. FHIR version 4.0.1 for cancerscreeningcds.fhir.us.bcsm-cds#0.1.0 (canonical = http://cancerscreeningcds.github.io/bcsm-cds)
+ Build Errors : 25 / 4 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-cancerscreeningcds.fhir.us.bcsm-cds : 0 / 1 / 1
+ /github/workspace/fsh-generated/resources/Patient-PatientExample : 0 / 0 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-MyPatient : 0 / 0 / 1
+</table>
+== n/a ==
+ERROR: /github/workspace/output/2_background.html#/html/body/div/div/div/p/a at Line 169, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/3_specification.html#/html/body/div/div/div/p/a at Line 170, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/4_examples.html#/html/body/div/div/div/p/a at Line 169, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/5_downloads.html#/html/body/div/div/div/p/a at Line 202, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/Patient-PatientExample.change.history.html#/html/body/div/div/div/p/a at Line 196, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/Patient-PatientExample.html#/html/body/div/div/div/p/a at Line 205, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/Patient-PatientExample.json.html#/html/body/div/div/div/p/a at Line 225, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/Patient-PatientExample.ttl.html#/html/body/div/div/div/p/a at Line 231, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/Patient-PatientExample.xml.html#/html/body/div/div/div/p/a at Line 220, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient-definitions.html#/html/body/div/div/div/p/a at Line 552, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient-examples.html#/html/body/div/div/div/p/a at Line 264, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient-mappings.html#/html/body/div/div/div/p/a at Line 365, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient-testing.html#/html/body/div/div/div/p/a at Line 260, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient.html#/html/body/div/div/div/p/a at Line 1609, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient.profile.history.html#/html/body/div/div/div/p/a at Line 242, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient.profile.json.html#/html/body/div/div/div/p/a at Line 2466, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient.profile.ttl.html#/html/body/div/div/div/p/a at Line 1845, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-MyPatient.profile.xml.html#/html/body/div/div/div/p/a at Line 2314, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/artifacts.html#/html/body/div/div/div/p/a at Line 204, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ul/li/a at Line 193, column 8: The link 'background.html' for "Background" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ul/li/a at Line 194, column 8: The link 'spec.html' for "Detailed Specification" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ul/li/a at Line 195, column 8: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ul/li/a at Line 196, column 8: The link 'examples.html' for "Examples" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/p/a at Line 217, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+ERROR: /github/workspace/output/toc.html#/html/body/div/div/div/p/a at Line 152, column 28: The link 'mitre.org' for "MITRE" cannot be resolved
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-cancerscreeningcds.fhir.us.bcsm-cds.json ==
+WARNING: ImplementationGuide/cancerscreeningcds.fhir.us.bcsm-cds: ImplementationGuide: Constraint failed: ig-0: 'Name should be usable as an identifier for the module by machine processing applications such as code generation'
+== fsh-generated/resources/Patient-PatientExample.json ==
+== fsh-generated/resources/StructureDefinition-MyPatient.json ==

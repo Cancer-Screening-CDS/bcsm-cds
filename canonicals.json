@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "cancerscreeningcds.fhir.us.bcsm-cds",
+    "type" : "ImplementationGuide",
+    "url" : "http://cancerscreeningcds.github.io/bcsm-cds/ImplementationGuide/cancerscreeningcds.fhir.us.bcsm-cds",
+    "version" : "0.1.0",
+    "name" : "bcsmcds"
+  },
+  {
+    "id" : "MyPatient",
+    "type" : "StructureDefinition",
+    "url" : "http://cancerscreeningcds.github.io/bcsm-cds/StructureDefinition/MyPatient",
+    "version" : "0.1.0",
+    "name" : "MyPatient"
+  }
+]
